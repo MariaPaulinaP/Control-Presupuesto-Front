@@ -1,0 +1,23 @@
+
+.tabla_finanzas{
+    height: 200px;
+    width: 30%;
+    text-align: center;
+    border: 2px solid black;
+}
+
+th, td{
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+.propiedades{
+    background-color: rgb(150, 186, 236);
+    font-weight: bold;
+}
+
+.datos_propiedades{
+    background-color: rgb(237, 231, 231);
+}
+
